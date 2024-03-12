@@ -23,16 +23,10 @@ int main() {
     while(num > 0) 
     {
         buf[count] = (char)((num % 10) + 48);
-        // buf[count] = num%10;
-        // num = num / 10;
-        // std::cout << "" << buf[count] << std::endl;
-        // std::cout << "num/10 = " << num / 10 << std::endl;
         count++;
         num /= 10;
         buf[count + 1] = num / 10;
     }
-    
-    //count++;
     
     if ( sign )
     {  
