@@ -15,3 +15,5 @@ The first **Fibonacci** number is greater than given number <br>
 The main tools used in this code are basic C++ constructs like arrays, loops, conditional statements, and arithmetic operations, along with concepts from mathematics such as linear interpolation.<br>
 ## homework#4
 **Functions for Nth Fibonacci Number:** one using recursion and the other using a for loop. The code practices the use of pointer arithmetic and array indexing syntax.
+## homework#8
+**Bubble sort implementation** using a vector, finding **min and max** in a vector.
